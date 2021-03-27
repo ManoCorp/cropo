@@ -1,0 +1,2 @@
+# cropo
+Thumbnail generator
